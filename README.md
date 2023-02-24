@@ -1,4 +1,4 @@
 # ml-projects
 
-- Captcha Solver
-- CNN - basic implementation using numpy
+- Captcha Solver - using OpenCV
+- CNN - basic implementation of the forward pass using numpy
